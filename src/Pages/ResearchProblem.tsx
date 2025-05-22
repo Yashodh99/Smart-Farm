@@ -21,7 +21,7 @@ function ResearchProblem() {
                             </p>
                         </div>
                         <div className="col-lg-6 pb-4 pb-lg-0">
-                            <iframe style={{ marginLeft: '5%' }} width="560" height="315" src="https://www.youtube.com/embed/sW8ikZebCTc?si=lJu26JXwc25FXIci" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
+                            <iframe style={{ marginLeft: '5%' }} width="560" height="315" src="https://www.youtube.com/embed/W-0lSiV-H7k?si=Ai0uKvQySVG78eJB" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
                         </div>
                     </div>
                     <h5 style={{ fontWeight: '700' }} className='ms-3 mt-3'>Proposed Solution</h5>
