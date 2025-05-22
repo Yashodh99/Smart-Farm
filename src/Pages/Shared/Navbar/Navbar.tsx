@@ -222,13 +222,18 @@ const Navbar = () => {
         <nav className={`navbar navbar-expand-lg navbar-light ${isSticky ? "stickynav" : "normalnav"}`} >
             <div className="container-fluid">
                 <div className="navbar-heading mt-2">
-                    <h3 style={{ marginLeft: '30px' }}>
-                        <Link className="navbar-h ms-5" to="/">
-                            <img src="" style={{ height: '50px' }} alt="Logo" className="logo-image me-3" />
-                            SMART FARM SECURITY SYSTEM
-                        </Link>
-                    </h3>
-                </div>
+  <h3 style={{ marginLeft: '30px' }}>
+    <Link className="navbar-h ms-5" to="/">
+      <img
+        src="/get.png" // Path relative to the public folder
+        style={{ height: '50px' }}
+        alt="Smart Farm Security System Logo"
+        className="logo-image me-3"
+      />
+      SMART FARM SECURITY SYSTEM
+    </Link>
+  </h3>
+</div>
 
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
