@@ -5,13 +5,13 @@ function MeetOurTeam() {
         {
             name: 'Mrs.Gaya Thamali Dasanayaka',
             position: 'Supervisor',
-            image: '',
+            image: '/thamali.png',
             department: 'Information Technology'
         },
         {
             name: 'Mr.Ravi Supunya',
             position: 'Co_Supervisor',
-            image: '',
+            image: '/ravi.png',
             department: 'Information Technology'
         }
     ]
@@ -20,26 +20,26 @@ function MeetOurTeam() {
         {
             name: 'Fernando W.Y.M',
             position: 'Group Leader',
-            image: '',
+            image: '/user.png',
             department: 'Information Technology'
         },
         {
             name: 'Chanuka Weerasinghe',
             position: 'Group Member',
-            image: '',
+            image: '/chanuka.png',
             department: 'Information Technology'
         },
         
         {
-            name: 'Thilan Akmeemana.',
+            name: 'Thilan Akmeemana',
             position: 'Group Member',
-            image: '',
+            image: '/thilan.png',
             department: 'Information Technology'
         },
         {
             name: 'Tharusha Hapuarachchi',
             position: 'Group Member',
-            image: '',
+            image: '/user.png',
             department: 'Information Technology'
         },
     ]
