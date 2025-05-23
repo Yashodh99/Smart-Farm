@@ -26,10 +26,10 @@ function MeetOurTeam() {
         {
             name: 'Chanuka Weerasinghe',
             position: 'Group Member',
-            image: '/chanuka.png',
+            image: '/user.png',
             department: 'Information Technology'
         },
-        
+
         {
             name: 'Thilan Akmeemana',
             position: 'Group Member',
@@ -102,7 +102,7 @@ function MeetOurTeam() {
                                     <a href="/" style={{ fontSize: '14px', color: 'green' }} className="btn btn-link btn-block ms-2">
                                         <i className="fab fa-google me-1 mb-5"></i> G-Scholar
                                     </a>
-                                    <a href="/" style={{ fontSize: '14px', color: 'green'}} className="btn btn-link btn-block">
+                                    <a href="/" style={{ fontSize: '14px', color: 'green' }} className="btn btn-link btn-block">
                                         <i className="fas fa-envelope-open-text me-1 mt-5" ></i> E-Mail
                                     </a>
                                 </div>
