@@ -26,7 +26,7 @@ function MeetOurTeam() {
         {
             name: 'Chanuka Weerasinghe',
             position: 'Group Member',
-            image: '/user.png',
+            image: '/chanuka.png',
             department: 'Information Technology'
         },
 
@@ -39,7 +39,7 @@ function MeetOurTeam() {
         {
             name: 'Tharusha Hapuarachchi',
             position: 'Group Member',
-            image: '/user.png',
+            image: '/tharusha.png',
             department: 'Information Technology'
         },
     ]
