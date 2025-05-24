@@ -17,7 +17,7 @@ const HomePage = (props: Props) => {
     <div>
       <div className="intro" id="home">
         <h1 className="animate">SMART FARM SECURITY SYSTEM</h1>
-        <p>Learn More</p>
+       
       </div>
 
       <LiteratureSurvey />
