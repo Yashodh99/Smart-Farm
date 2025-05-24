@@ -224,13 +224,13 @@ const Navbar = () => {
     <div className="navbar-heading mt-2">
         <h3 style={{ marginLeft: '30px' }}>
             <Link className="navbar-h ms-5" to="/">
-             <img
-                 src="/get.png" // Path relative to the public folder
-                 style={{ height: '50px' }}
-                 alt="Smart Farm Security System Logo"
-                 className="logo-image me-3"
-                />
-             Smart Farm Security System
+            <img
+            src="/get.png"
+            style={{ height: '50px', width: '50px', borderRadius: '50%' }}
+            alt="Smart Farm Security System Logo"
+            className="logo-image me-3"
+            />
+             FarmGuard
             </Link>
         </h3>
     </div>
