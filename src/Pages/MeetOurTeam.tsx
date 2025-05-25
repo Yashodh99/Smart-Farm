@@ -33,9 +33,6 @@ function MeetOurTeam() {
         {
             name: 'Fernando W.Y.M',
             position: 'Group Leader',
-
-            
-
             image: '/yashodh.jpg',
             department: 'Information Technology',
             email: 'mailto:yashfern99@gmail.com'
@@ -44,7 +41,7 @@ function MeetOurTeam() {
         {
             name: 'Chanuka Weerasinghe',
             position: 'Group Member',
-            image: '/chanuka.png',
+            image: '/chanukawe.jpg',
             department: 'Information Technology',
             email: 'mailto:chanukasweerasinghe@gmail.com'
         },
@@ -58,7 +55,7 @@ function MeetOurTeam() {
         {
             name: 'Tharusha Hapuarachchi',
             position: 'Group Member',
-            image: '/tharusha.png',
+            image: '/tharushahapu.jpg',
             department: 'Information Technology',
             email: 'mailto:tharuhapuarachchi00@gmail.com'
         }
