@@ -14,20 +14,20 @@ const Footer = () => {
                                     <h2 style={{ color: "#8ca3ba" }}>
                                         <img
                                             style={{
-                                            width: "40px",
-                                            height: "40px",
-                                            marginRight: "10px",
-                                            borderRadius: "50%"
+                                                width: "40px",
+                                                height: "40px",
+                                                marginRight: "10px",
+                                                borderRadius: "50%"
                                             }}
                                             src="/get.png"
                                             alt="Smart Farm Logo"
                                         />
-                                        SMART FARM SECURITY SYSTEM
-                                        </h2>
+                                        FarmGurd
+                                    </h2>
 
                                 </div>
                                 <p className="card-text">
-                                    The main objective of the proposed Smart Farm 
+                                    The main objective of the proposed Smart Farm
                                     security system is to provide farmters to protect their crops from animal attacks.
                                 </p>
                                 <div className="social mt-2 mb-3">
