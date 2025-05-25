@@ -1,7 +1,7 @@
 import React, { useContext, useState, useEffect } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import './Navbar.css';
-import '../../../images/get.png'
+
 
 const Navbar = () => {
     const [isSticky, setSticky] = useState(false)
