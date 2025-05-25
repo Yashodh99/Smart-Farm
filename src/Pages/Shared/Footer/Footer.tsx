@@ -35,7 +35,7 @@ const Footer = () => {
                                     <i className="fa fa-instagram fa-lg" onClick={() => { window.location.replace("") }}></i>
                                     <i className="fa fa-twitter fa-lg" onClick={() => { window.location.replace("") }}></i>
                                     <i className="fa fa-linkedin-square fa-lg" onClick={() => { window.location.replace("") }}></i>
-                                    <i className="fa fa-github" onClick={() => { window.location.replace("") }}></i>
+                                    <i className="fa fa-github" onClick={() => { window.location.replace("https://github.com/Yashodh99/Smart-Farm") }}></i>
                                 </div>
                             </div>
                         </div>
@@ -53,7 +53,6 @@ const Footer = () => {
                             <h5 className="heading">Downloads</h5>
                             <ul className="card-text">
                                 <li>Project Proposal</li>
-                                <li>Project Charter</li>
                                 <li>Log Book</li>
                                 <li>Final Report</li>
                             </ul>
