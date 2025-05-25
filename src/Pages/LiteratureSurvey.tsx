@@ -26,22 +26,25 @@ function LiteratureSurvey() {
                                 In summary, the use of machine learning and advanced sensor technologies in vibration-based animal detection and identification systems holds promise for effectively mitigating human-animal conflicts in agricultural fields. However, challenges such as sensor calibration, adaptability in different environmental conditions, and the development of learning-based predictive models need further research to create efficient and flexible solutions for diverse agricultural conditions. The proposed Smart Farm Security System aims to address these gaps by integrating vibration-based detection, adaptive sensitivity calibration, optimized deterrence strategies, and predictive modeling to provide a comprehensive solution for farm protection and wildlife management.
 
                                 <br /><br />
-                                <span style={{ fontSize: '12px' }}>References
-                                    <br />
-                                    [1] M. D. Milosevic, "Towards Model-Based Condition Monitoring of Railway Switches and Crossings," Ph.D. dissertation, Chalmers Tekniska Hogskola, Goteborg, Sweden, 2021.
-                                    <br />
-                                    [2] N. F. Espinora Sepúlveda and J. K. Sinha, "Blind application of developed smart vibration-based machine learning (SVML) model for machine faults diagnosis to different machine conditions," Journal of Vibration Engineering & Technologies, vol. 9, pp. 587-596, 2021.
-                                    <br />
-                                    [3] K. Li et al., "Vibration-based health monitoring of ball screw in changing operational conditions," Journal of Manufacturing Processes, vol. 53, pp. 55-68, 2020.
-                                    <br />
-                                    [4] S. R. S. R. Y. R. K. D. S. Sowmiya P, "IoT Influenced Automatic Elephant Repelling System for Enhancing Safety of Public and Plantations," Journal of Multimassional & Control Systems, vol. 12, no. 7, pp. 2244-2249, 2020.
-                                    <br />
-                                    [5] R. H. N. K. R. S. S. S. S. K. D. S. Prakash, "Machine Learning-Based Acoustic Repellent System for Protecting Crops against Wild Animal Attacks," Journal of Advanced Research in Dynamical & Control Systems, vol. 12, no. 7, pp. 2250-2255, 2020.
-                                    <br />
-                                    [6] J. L. W. M. W. L. J. M. W., Jaliya L., Wijayaraja, "Towards Long Range for Embedded Systems," IEEE Access, p. 10, 2024.
-                                    <br />
-                                    [7] J. Rew, S. Park, Y. Cho, S. Jung, and E. Hwang, "Animal Movement Protection Based on Predictive and Maternal Network," Research, Oct. 2019. [Online]. Available: https://www.researchgate.net/publication/336527012_Animal_Movement_Prediction_Based_on_Predictive_Recurrent_Neural_Network.
-                                </span>
+                                <span style={{ fontSize: '16px', fontWeight: 'bold' }}>References</span>
+<br /> <br />
+<span style={{ fontSize: '12px',fontWeight: 'bold' }}>
+    [1] M. D. Milosevic, "Towards Model-Based Condition Monitoring of Railway Switches and Crossings," Ph.D. dissertation, Chalmers Tekniska Hogskola, Goteborg, Sweden, 2021.
+    <br />
+    [2] N. F. Espinora Sepúlveda and J. K. Sinha, "Blind application of developed smart vibration-based machine learning (SVML) model for machine faults diagnosis to different machine conditions," Journal of Vibration Engineering & Technologies, vol. 9, pp. 587-596, 2021.
+    <br />
+    [3] K. Li et al., "Vibration-based health monitoring of ball screw in changing operational conditions," Journal of Manufacturing Processes, vol. 53, pp. 55-68, 2020.
+    <br />
+    [4] S. R. S. R. Y. R. K. D. S. Sowmiya P, "IoT Influenced Automatic Elephant Repelling System for Enhancing Safety of Public and Plantations," Journal of Multimassional & Control Systems, vol. 12, no. 7, pp. 2244-2249, 2020.
+    <br />
+    [5] R. H. N. K. R. S. S. S. S. K. D. S. Prakash, "Machine Learning-Based Acoustic Repellent System for Protecting Crops against Wild Animal Attacks," Journal of Advanced Research in Dynamical & Control Systems, vol. 12, no. 7, pp. 2250-2255, 2020.
+    <br />
+    [6] J. L. W. M. W. L. J. M. W., Jaliya L., Wijayaraja, "Towards Long Range for Embedded Systems," IEEE Access, p. 10, 2024.
+    <br />
+    [7] J. Rew, S. Park, Y. Cho, S. Jung, and E. Hwang, "Animal Movement Protection Based on Predictive and Maternal Network," Research, Oct. 2019. [Online]. Available: https://www.researchgate.net/publication/336527012_Animal_Movement_Prediction_Based_on_
+    Predictive_Recurrent_Neural_Network.
+</span>
+
                             </p>
                         </div>
                     </div>
