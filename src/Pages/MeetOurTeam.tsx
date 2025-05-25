@@ -33,9 +33,13 @@ function MeetOurTeam() {
         {
             name: 'Fernando W.Y.M',
             position: 'Group Leader',
+
+            
+
             image: '/yashodh.jpg',
             department: 'Information Technology',
             email: 'mailto:yashfern99@gmail.com'
+
         },
         {
             name: 'Chanuka Weerasinghe',

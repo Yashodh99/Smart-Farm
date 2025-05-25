@@ -4,7 +4,7 @@
   background: url('https://scribemedia.com/wp-content/uploads/2022/03/How-to-Publish-an-Audiobook-in-5-Steps-700x406.jpg');
   background-size: cover;
   position: relative;
-  
+
 }
 
 /* text css above hero image*/
@@ -79,7 +79,7 @@
   text-align: center;
   width: 100%;
   height: 620px;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%), url("https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWOglcYBzfi4GjIUDnp_4-so19bHfYOdpVBHtIJiv_huRLlrag_K5DQ1aJc5xvdeZM6Us3FGaRiWDboG-LtgBl2RxU3Lk4b8H8TQIEAX9AUe4f2V1EIZ6opHfRI9kR7QZh3rLyhRxop_4QHc4LJW8?key=mBQfAt4KfAmkn2dSTpGCIUcJ");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%), url("../public/Back.png");
   background-size: cover;
   background-position: relative;
   background-repeat: no-repeat;
@@ -144,7 +144,7 @@
 .servicesText.card {
   height: 250px;
   cursor: pointer;
-  
+
 }
 
 .servicesIcon {
