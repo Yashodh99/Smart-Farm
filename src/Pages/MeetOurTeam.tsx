@@ -20,7 +20,7 @@ function MeetOurTeam() {
         {
             name: 'Fernando W.Y.M',
             position: 'Group Leader',
-            image: '/user.png',
+            image: '/Yashodh.png',
             department: 'Information Technology'
         },
         {
