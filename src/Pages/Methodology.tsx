@@ -3,7 +3,11 @@ import React from 'react'
 function Methodology() {
     return (
         <section className="mt-5" id="Methodology">
-  <h1 className="text-center mb-5" style={{ fontFamily: "'Poppins', sans-serif", fontWeight: 700 }}>Methodology</h1>
+  <h1 className="mb-5" style={{ marginLeft: '8%',}}
+>
+  Methodology
+</h1>
+
   <div className="container-fluid py-5" id="about">
     <div className="container">
       <div className="row align-items-center">
