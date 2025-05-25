@@ -5,63 +5,63 @@ function TimeLines() {
     const timelines = [
         {
             name: 'Proposal Presentation',
-            date: 'March 2023',
+            date: 'August 2024',
             progress: '6%',
             mark: '6',
-            description: 'A Project Proposal is presented to potential sponsors or clients to receive funding or get your project approved.'
+            description: 'A Project Proposal is presented to supervisor and to the panel to receive funding or get your project approved.'
         },
         {
             name: 'Proposal Document',
-            date: 'March 2023',
+            date: 'August 2024',
             progress: '12%',
             mark: '6',
             description: 'A Project Proposal document is submitted to the supervisor for the approval of the project.'
         },
         {
             name: 'Progress Presentation I',
-            date: 'May 2023',
+            date: 'December 2024',
             progress: '27%',
             mark: '15',
             description: 'Progress Presentation I reviews the 50% completetion status of the project. This reveals any gaps or inconsistencies in the design/requirements.'
         },
         {
             name: 'Research Paper',
-            date: 'July 2023',
+            date: 'March 2025',
             progress: '37%',
             mark: '10',
             description: 'Describes what you contribute to existing knowledge, giving due recognition to all work that you referred in making new knowledge'
         },
         {
             name: 'Progress Presentation II',
-            date: 'August 2023',
+            date: 'March 2025',
             progress: '55%',
             mark: '18',
             description: 'Progress Presentation II reviews the 90% completetion status demonstration of the project. Along with a Poster presesntation which describes the project as a whole.'
         },
         {
             name: 'Website Assessment',
-            date: 'August 2023',
+            date: 'May 2025',
             progress: '57%',
             mark: '2',
             description: 'The Website helps to promote our research project and reveals all details related to the project.'
         },
         {
             name: 'Logbook',
-            date: 'September 2023',
+            date: 'June 2025',
             progress: '60%',
             mark: '3',
             description: 'Status of the project is validated through the Logbook. This also includes, Status documents 1 & 2.'
         },
         {
             name: 'Final Report',
-            date: 'October 2023',
+            date: 'April 2025',
             progress: '80%',
             mark: '20',
             description: 'Final Report evalutes the completed project done throughout the year. Marks mentioned below includes marks for Individual & group reports and also Final report.'
         },
         {
             name: 'Final Presentation & Viva',
-            date: 'November 2023',
+            date: 'May 2025',
             progress: '100%',
             mark: '20',
             description: 'Viva is held individually to assess each members contribution to the project.'
