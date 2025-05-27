@@ -2,11 +2,10 @@ import React from 'react';
 import './Footer.css';
 
 const Footer = () => {
-
     return (
         <div className='myfootecss'>
-            <div className=" mt-5">
-                <div className="card ">
+            <div className="mt-5">
+                <div className="card">
                     <div className="row mb-4">
                         <div className="col-md-4 col-sm-4 col-xs-4">
                             <div className="footer-text pull-left">
@@ -24,11 +23,10 @@ const Footer = () => {
                                         />
                                         FarmGurd
                                     </h2>
-
                                 </div>
                                 <p className="card-text">
                                     The main objective of the proposed Smart Farm
-                                    security system is to provide farmters to protect their crops from animal attacks.
+                                    security system is to provide farmers to protect their crops from animal attacks.
                                 </p>
                                 <div className="social mt-2 mb-3">
                                     <i className="fa fa-facebook-official fa-lg" onClick={() => { window.location.replace("") }}></i>
@@ -39,16 +37,36 @@ const Footer = () => {
                                 </div>
                             </div>
                         </div>
+
                         <div className="col-md-2 col-sm-2 col-xs-2"></div>
+
                         <div className="col-md-2 col-sm-2 col-xs-2">
-                            <h5 className="heading">Team Members</h5>
-                            <ul>
-                                <li>Yashodh Fernando</li>
-                                <li>Chanuka Weerasinghe</li>
-                                <li>Thilan Akmeemana</li>
-                                <li>Tharusha Hapuarachchi</li>
-                            </ul>
-                        </div>
+  <h5 className="heading">Team Members</h5>
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/in/yashodh-fernando-b87019216/" target="_blank" rel="noopener noreferrer" style={{ color: '#0077b5', cursor: 'pointer' }}>
+        Yashodh Fernando
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/chanuka-weerasinghe-08689a215/" target="_blank" rel="noopener noreferrer" style={{ color: '#0077b5', cursor: 'pointer' }}>
+        Chanuka Weerasinghe
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/thilan-akmeemana-66ab61215/" target="_blank" rel="noopener noreferrer" style={{ color: '#0077b5', cursor: 'pointer' }}>
+        Thilan Akmeemana
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/tharusha-hapuarachchi-27bb82217/edit/forms/next-action/after-connect-add-position/" target="_blank" rel="noopener noreferrer" style={{ color: '#0077b5', cursor: 'pointer' }}>
+        Tharusha Hapuarachchi
+      </a>
+    </li>
+  </ul>
+</div>
+
+
                         <div className="col-md-2 col-sm-2 col-xs-2">
                             <h5 className="heading">Downloads</h5>
                             <ul className="card-text">
@@ -57,6 +75,7 @@ const Footer = () => {
                                 <li>Final Report</li>
                             </ul>
                         </div>
+
                         <div className="col-md-2 col-sm-2 col-xs-2">
                             <h5 className="heading">Contact Us</h5>
                             <ul className="card-text">
@@ -67,7 +86,9 @@ const Footer = () => {
                             </ul>
                         </div>
                     </div>
-                    <div className="divider mb-4"> </div>
+
+                    <div className="divider mb-4"></div>
+
                     <div className="row" style={{ fontSize: "10px", textAlign: "center" }}>
                         <div>
                             Designed and Developed by FarmGuard Team <br />

@@ -10,31 +10,14 @@ function Downloads() {
             link: 'https://drive.google.com/drive/folders/16OLb04llBKQr7cYc8-zHfTqT8bIM_4FT'
             
         },
-        // {
-        //     name: 'Project Charter',
-        //     submittionDate: '2025-05-26',
-        //     grouporindi: 'Group',
-        //     link: ''
-        // },
+       
         {
             name: 'Project Proposal',
             submittionDate: '2025-05-26',
             grouporindi: 'Individual',
             link: 'https://drive.google.com/drive/folders/1TK4F5P5ISIhWYZe5FMYmCRNwa-aKa-I5'
         },
-        // {
-        //     name: 'Status Documents I',
-        //     submittionDate: '2023-09-28',
-        //     grouporindi: 'Individual',
-        //     link: ''
-        // },
-        // {
-        //     name: 'Status Documents II',
-        //     submittionDate: '2023-09-28',
-        //     grouporindi: 'Individual',
-        //     link: ''
-            
-        // },
+        
         {
             name: 'Research Paper',
             submittionDate: '2025-05-26',
@@ -47,12 +30,7 @@ function Downloads() {
             grouporindi: 'Group',
             link: 'https://drive.google.com/drive/folders/16qjehLU1P6KbFzIOP3nMudgwBefiN7mk'
         },
-        {
-            name: 'Poster',
-            submittionDate: '2025-05-26',
-            grouporindi: 'Group',
-            link: ''
-        }
+        
     ]
 
     const presentations = [
